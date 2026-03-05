@@ -1,0 +1,12 @@
+# executive si obiecte
+limbaj
+*.o
+*.exe
+
+# fisiere generate de Lex/Yacc
+lex.yy.c
+*.tab.c
+*.tab.h
+
+# log-uri sau iesiri de test
+tables
